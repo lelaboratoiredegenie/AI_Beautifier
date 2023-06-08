@@ -1,1 +1,0 @@
-Manually put the input pictures in the **input directory, or upload them through **main.ipynb.
